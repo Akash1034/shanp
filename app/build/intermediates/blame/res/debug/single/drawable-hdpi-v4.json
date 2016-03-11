@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\projects\\BluetoothChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\projects\\BluetoothChat-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\projects\\BluetoothChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_icon.png",
+        "source": "D:\\projects\\BluetoothChat-master1\\app\\src\\main\\res\\drawable-hdpi\\app_icon.png"
+    }
+]

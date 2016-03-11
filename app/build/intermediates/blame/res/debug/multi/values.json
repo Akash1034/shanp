@@ -1,0 +1,406 @@
+[
+    {
+        "outputFile": "D:\\projects\\BluetoothChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 57,
+                    "endOffset": 158
+                },
+                "from": {
+                    "file": "D:\\projects\\BluetoothChat-master1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 163,
+                    "endColumn": 55,
+                    "endOffset": 214
+                },
+                "from": {
+                    "file": "D:\\projects\\BluetoothChat-master1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 219,
+                    "endColumn": 52,
+                    "endOffset": 267
+                },
+                "from": {
+                    "file": "D:\\projects\\BluetoothChat-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1332,
+                        "endColumn": 52,
+                        "endOffset": 1380
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 272,
+                    "endColumn": 47,
+                    "endOffset": 315
+                },
+                "from": {
+                    "file": "D:\\projects\\BluetoothChat-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 47,
+                        "endOffset": 156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 320,
+                    "endColumn": 101,
+                    "endOffset": 417
+                },
+                "from": {
+                    "file": "D:\\projects\\BluetoothChat-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 308,
+                        "endColumn": 101,
+                        "endOffset": 405
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 422,
+                    "endColumn": 56,
+                    "endOffset": 474
+                },
+                "from": {
+                    "file": "D:\\projects\\BluetoothChat-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1067,
+                        "endColumn": 56,
+                        "endOffset": 1119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 479,
+                    "endColumn": 52,
+                    "endOffset": 527
+                },
+                "from": {
+                    "file": "D:\\projects\\BluetoothChat-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1154,
+                        "endColumn": 52,
+                        "endOffset": 1202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 532,
+                    "endColumn": 58,
+                    "endOffset": 586
+                },
+                "from": {
+                    "file": "D:\\projects\\BluetoothChat-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1208,
+                        "endColumn": 58,
+                        "endOffset": 1262
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 591,
+                    "endColumn": 52,
+                    "endOffset": 639
+                },
+                "from": {
+                    "file": "D:\\projects\\BluetoothChat-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1386,
+                        "endColumn": 52,
+                        "endOffset": 1434
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 644,
+                    "endColumn": 55,
+                    "endOffset": 695
+                },
+                "from": {
+                    "file": "D:\\projects\\BluetoothChat-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 872,
+                        "endColumn": 55,
+                        "endOffset": 923
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 700,
+                    "endColumn": 67,
+                    "endOffset": 763
+                },
+                "from": {
+                    "file": "D:\\projects\\BluetoothChat-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 803,
+                        "endColumn": 67,
+                        "endOffset": 866
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 768,
+                    "endColumn": 75,
+                    "endOffset": 839
+                },
+                "from": {
+                    "file": "D:\\projects\\BluetoothChat-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 231,
+                        "endColumn": 75,
+                        "endOffset": 302
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 844,
+                    "endColumn": 60,
+                    "endOffset": 900
+                },
+                "from": {
+                    "file": "D:\\projects\\BluetoothChat-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 671,
+                        "endColumn": 60,
+                        "endOffset": 727
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 905,
+                    "endColumn": 68,
+                    "endOffset": 969
+                },
+                "from": {
+                    "file": "D:\\projects\\BluetoothChat-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 733,
+                        "endColumn": 68,
+                        "endOffset": 797
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 974,
+                    "endColumn": 37,
+                    "endOffset": 1007
+                },
+                "from": {
+                    "file": "D:\\projects\\BluetoothChat-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endColumn": 37,
+                        "endOffset": 225
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1012,
+                    "endColumn": 62,
+                    "endOffset": 1070
+                },
+                "from": {
+                    "file": "D:\\projects\\BluetoothChat-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1268,
+                        "endColumn": 62,
+                        "endOffset": 1326
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1075,
+                    "endColumn": 96,
+                    "endOffset": 1167
+                },
+                "from": {
+                    "file": "D:\\projects\\BluetoothChat-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 471,
+                        "endColumn": 100,
+                        "endOffset": 567
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1172,
+                    "endColumn": 58,
+                    "endOffset": 1226
+                },
+                "from": {
+                    "file": "D:\\projects\\BluetoothChat-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 411,
+                        "endColumn": 58,
+                        "endOffset": 465
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1231,
+                    "endColumn": 61,
+                    "endOffset": 1288
+                },
+                "from": {
+                    "file": "D:\\projects\\BluetoothChat-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 573,
+                        "endColumn": 61,
+                        "endOffset": 630
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1293,
+                    "endColumn": 71,
+                    "endOffset": 1360
+                },
+                "from": {
+                    "file": "D:\\projects\\BluetoothChat-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 994,
+                        "endColumn": 71,
+                        "endOffset": 1061
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1365,
+                    "endColumn": 63,
+                    "endOffset": 1424
+                },
+                "from": {
+                    "file": "D:\\projects\\BluetoothChat-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 929,
+                        "endColumn": 63,
+                        "endOffset": 988
+                    }
+                }
+            }
+        ]
+    }
+]

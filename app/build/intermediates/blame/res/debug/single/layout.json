@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\projects\\BluetoothChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_title.xml",
+        "source": "D:\\projects\\BluetoothChat-master1\\app\\src\\main\\res\\layout\\custom_title.xml"
+    },
+    {
+        "merged": "D:\\projects\\BluetoothChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_play_.xml",
+        "source": "D:\\projects\\BluetoothChat-master1\\app\\src\\main\\res\\layout\\activity_play_.xml"
+    },
+    {
+        "merged": "D:\\projects\\BluetoothChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_name.xml",
+        "source": "D:\\projects\\BluetoothChat-master1\\app\\src\\main\\res\\layout\\device_name.xml"
+    },
+    {
+        "merged": "D:\\projects\\BluetoothChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wallpaper.xml",
+        "source": "D:\\projects\\BluetoothChat-master1\\app\\src\\main\\res\\layout\\wallpaper.xml"
+    },
+    {
+        "merged": "D:\\projects\\BluetoothChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_list.xml",
+        "source": "D:\\projects\\BluetoothChat-master1\\app\\src\\main\\res\\layout\\device_list.xml"
+    },
+    {
+        "merged": "D:\\projects\\BluetoothChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\projects\\BluetoothChat-master1\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\projects\\BluetoothChat-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message.xml",
+        "source": "D:\\projects\\BluetoothChat-master1\\app\\src\\main\\res\\layout\\message.xml"
+    }
+]

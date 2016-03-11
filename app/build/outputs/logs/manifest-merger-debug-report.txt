@@ -1,0 +1,113 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml:3:1-57:12
+	package
+		ADDED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml:4:5-48
+		INJECTED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml:6:5-30
+		INJECTED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml:3:11-69
+uses-sdk
+ADDED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml:8:5-11:41
+	android:maxSdkVersion
+		ADDED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml:9:9-35
+	android:targetSdkVersion
+		ADDED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml:11:9-38
+		INJECTED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml:10:9-35
+		INJECTED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml:12:2-78
+	android:name
+		ADDED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml:12:19-75
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml:13:22-77
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml:14:5-74
+	android:name
+		ADDED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml:14:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml:15:5-68
+	android:name
+		ADDED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml:15:22-65
+uses-feature#android.software.live_wallpaper
+ADDED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml:16:2-19:16
+	android:required
+		ADDED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml:18:5-28
+	android:name
+		ADDED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml:17:5-51
+application
+ADDED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml:20:5-55:19
+	android:label
+		ADDED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml:22:9-41
+	android:icon
+		ADDED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml:21:9-45
+service#com.example.android.BluetoothChat.GIFWallpaperService
+ADDED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml:23:9-35:11
+	android:enabled
+		ADDED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml:25:5-27
+	android:label
+		ADDED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml:26:5-34
+	android:permission
+		ADDED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml:27:5-59
+	android:name
+		ADDED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml:24:5-40
+intent-filter#android.service.wallpaper.WallpaperService
+ADDED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml:28:5-30:21
+action#android.service.wallpaper.WallpaperService
+ADDED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml:29:9-76
+	android:name
+		ADDED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml:29:17-74
+meta-data#android.service.wallpaper
+ADDED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml:31:5-34:17
+	android:resource
+		ADDED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml:33:9-45
+	android:name
+		ADDED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml:32:9-49
+activity#com.example.android.BluetoothChat.BluetoothChat
+ADDED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml:36:9-45:20
+	android:label
+		ADDED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml:39:13-45
+	android:configChanges
+		ADDED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml:38:13-63
+	android:name
+		ADDED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml:37:13-75
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml:40:13-44:29
+action#android.intent.action.MAIN
+ADDED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml:41:17-69
+	android:name
+		ADDED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml:41:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml:43:17-77
+	android:name
+		ADDED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml:43:27-74
+activity#com.example.android.BluetoothChat.DeviceListActivity
+ADDED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml:46:9-50:64
+	android:label
+		ADDED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml:49:13-50
+	android:configChanges
+		ADDED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml:48:13-63
+	android:theme
+		ADDED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml:50:13-61
+	android:name
+		ADDED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml:47:13-80
+activity#com.example.android.BluetoothChat.Play_Activity
+ADDED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml:51:9-54:20
+	android:label
+		ADDED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml:53:13-57
+	android:name
+		ADDED from D:\projects\BluetoothChat-master1\app\src\main\AndroidManifest.xml:52:13-75
